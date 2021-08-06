@@ -1,0 +1,23 @@
+body {
+  background: black;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: greenyellow;
+  font-size: 50px;
+  font-family: "Oxanium", cursive;
+}
+button {
+  background: black;
+  border: 2px solid greenyellow;
+  color: greenyellow;
+  border-radius: 4px;
+  font-size: 25px;
+  font-family: "Oxanium", cursive;
+  padding: 5px;
+}
+.button2 {
+  top: 50%;
+  left: 50%;
+}
